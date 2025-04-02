@@ -16,11 +16,9 @@ This repository uses Tiny-BERT, available at https://huggingface.co/prajjwal1/be
 
 ## Preliminary
 
-To use the repository, we provide a conda environment.
+To start using the repository, install required librairies using :
 ```bash
-conda update conda
-conda env create -f environment.yml
-conda activate dp
+pip install -r requirements
 ```
 ### Evaluated tasks
 
